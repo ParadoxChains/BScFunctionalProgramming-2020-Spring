@@ -1,0 +1,130 @@
+for(int i=0; i<10; i++)
+{
+do this stuff
+}
+
+[do this \\ x<- [1..10]]
+
+
+a = 1;
+a = a+1;
+
+f x = x+2
+
+Start = f 3
+^
+Start
+f 3 
+f 3 = 3+2
+5
+
+
+g(x) = 2 * x
+godthisnameisinsanelylongwhydididodis somethingCompletelyRidiculous = 2 * somethingCompletelyRidiculous
+
+Start = godthisnameisinsanelylongwhydididodis 5
+
+
+double x = x + x
+
+quadruple = double(double x)
+
+Start = double 3
+^
+Start
+double 3
+3 + 3
+6
+
+Start = quadruple 3
+^
+Start
+quadruple 3
+double(double 3)
+double 3 + double 3
+3 + 3 + 3 + 3
+12
+
+
+| otherwise = statement
+
+| (condition) = (statement)
+if (condition) then {statement}
+| otherwise
+else
+
+
+f x
+| x<0 = x-1
+| x>0 = x+1
+= 0
+
+Start = f 3
+^
+Start
+f 3
+(3 < 0) --> false //skip!
+(3 >0 ) --> true!
+3+1
+4
+
+Start = f 0
+
+
+f x
+| x == 0 = abort 'Hello!'
+= f (x-1)
+someOtherVariable = 5
+
+Start = f someOtherVariable
+^
+Start
+f 5
+5 == 0 --> false //skip!
+f (5-1)
+(5-1) == 0
+4 == 0 --> false //skip!
+f (4-1)
+.
+.
+.
+f (1-1)
+(1-1) == 0
+0 == 0 --> true!
+abort 'Hello!'
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
