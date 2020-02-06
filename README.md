@@ -1,12 +1,11 @@
-# Eötvös Loránd University BSc Functional Programming - Fall 2019 Public Repository
+# Eötvös Loránd University BSc Functional Programming - Spring 2020 Public Repository
 ---
 
 ## Latest Announcement
-### Retake date, time, and location have been added to the [Important Dates Document](https://github.com/ParadoxChains/BScFunctionalProgramming-2019-Fall/blob/master/Important_Dates.md) along with other important details: [https://github.com/ParadoxChains/BScFunctionalProgramming-2019-Fall/blob/master/Important_Dates.md](https://github.com/ParadoxChains/BScFunctionalProgramming-2019-Fall/blob/master/Important_Dates.md)
 
 ---
 ## General Info
-This is the public repository for all files used in the Friday sections 1200pm-1400pm and 1400pm - 1600pm.\
+This is the public repository for all files used in the **[Section TBA]**\
 You can easily access this Git repo via: [http://ELTE-BSc-FP.com](http://ELTE-BSc-FP.com) or [http://ELTE-BSc-FP.org](http://ELTE-BSc-FP.org)\
 Additional practice and help files may be uploaded here as well. For those who need help with Git, you can learn some more over at: [https://learngitbranching.js.org/](https://learngitbranching.js.org/) Though to be perfectly honest, most of Git is learned by using it, and via trial and error.
 
@@ -23,15 +22,13 @@ Practice Instructor: Evan Sitt
 - Facebook: [https://www.facebook.com/Evan.Sitt](https://www.facebook.com/evan.sitt)
 - Youtube: [https://www.youtube.com/c/ParadoxChains](https://www.youtube.com/c/ParadoxChains)
 - WhatsApp: +36 70 292 0784
-- Office: 2-402 South Building
+- Office: **TBA**
 - Office hours:
-  - Mondays after 14:00pm.
-  - Thursdays after 16:00pm.
-  - Fridays after 16:00pm.
-  - **Please email me in advance for consultations, as I may be at Ericsson. :)**
+  - **TBA**
+  - **Please email me in advance for consultations.**
 
 Consultation Hours:\
-Lovarda Computer Lab (0-308 South Building) Every Tuesday from 1600pm to 1800pm *(or later, as necessary)*
+**TBA**
 
 Tutors:\
 [https://github.com/ParadoxChains/BScFunctionalProgramming-2019-Fall/blob/master/Tutor_Contacts.md](https://github.com/ParadoxChains/BScFunctionalProgramming-2019-Fall/blob/master/Tutor_Contacts.md)
@@ -41,10 +38,6 @@ Grading system:\
 
 Important Dates:\
 [https://github.com/ParadoxChains/BScFunctionalProgramming-2019-Fall/blob/master/Important_Dates.md](https://github.com/ParadoxChains/BScFunctionalProgramming-2019-Fall/blob/master/Important_Dates.md)
-
-Official Discord Server:\
-[https://discord.gg/w4yfXmP](https://discord.gg/w4yfXmP)\
-Livestream Consultations will be held on the Discord channel **every Saturday at 13:00pm** *(unless I state otherwise)*
 
 ## Homework and Classwork Policy
 Late homework and classwork will not be accepted.\

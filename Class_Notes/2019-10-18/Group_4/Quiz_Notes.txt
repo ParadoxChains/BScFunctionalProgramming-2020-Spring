@@ -1,8 +1,0 @@
-f :: Int Int -> Int
-f x y = x * y + y
-
-Start = foldr (f) 4 [1, 2, 3]
-foldr (f) 4 [1, 2, 3]
-f 3 4 = 3 * 4 + 4 //16
-f 2 16 //32 + 16 = 48
-f 1 48 //96
