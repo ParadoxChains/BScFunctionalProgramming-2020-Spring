@@ -30,4 +30,4 @@
     - import StdEnv
     - Start = "Hello World"
  - You can compile and run your file by writing this command to the terminal
-  - clm (Your file's name) && ./a.out
+    - clm (Your file's name) && ./a.out
