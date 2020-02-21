@@ -37,7 +37,7 @@ Grading system:\
 [https://github.com/ParadoxChains/BScFunctionalProgramming-2020-Spring/blob/master/Grading_System.md](https://github.com/ParadoxChains/BScFunctionalProgramming-2020-Spring/blob/master/Grading_System.md)
 
 A Nice Excel Spreadsheet for Calculating Your Grade:\
-[https://github.com/ParadoxChains/BScFunctionalProgramming-2020-Spring/blob/master/Functional%20Programming%20Grade%20Calculating%20Spreadsheet%20-%202019%20Fall.xlsx](https://github.com/ParadoxChains/BScFunctionalProgramming-2020-Spring/blob/master/Functional%20Programming%20Grade%20Calculating%20Spreadsheet%20-%202019%20Fall.xlsx)
+[https://github.com/ParadoxChains/BScFunctionalProgramming-2020-Spring/blob/master/Functional%20Programming%20Grade%20Calculating%20Spreadsheet%20-%202020%20Spring.xlsx](https://github.com/ParadoxChains/BScFunctionalProgramming-2020-Spring/blob/master/Functional%20Programming%20Grade%20Calculating%20Spreadsheet%20-%202020%20Spring.xlsx)
 
 Important Dates:\
 [https://github.com/ParadoxChains/BScFunctionalProgramming-2020-Spring/blob/master/Important_Dates.md](https://github.com/ParadoxChains/BScFunctionalProgramming-2020-Spring/blob/master/Important_Dates.md)
