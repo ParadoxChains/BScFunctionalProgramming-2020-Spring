@@ -5,12 +5,12 @@
 
 ---
 ## General Info
-This is the public repository for all files used in the **[Section TBA]**\
+This is the public repository for all files used in the practice sessions.\
 You can easily access this Git repo via: [http://fp.yeet.codes](http://fp.yeet.codes)\
 Additional practice and help files may be uploaded here as well. For those who need help with Git, you can learn some more over at: [https://learngitbranching.js.org/](https://learngitbranching.js.org/) Though to be perfectly honest, most of Git is learned by using it, and via trial and error.
 
 ## Course Information
-Official Course Lecturer: Viktoria Zsok
+Official Course Lecturer: Viktoria Zsök
 - Website: [http://zsv.web.elte.hu/clean](http://zsv.web.elte.hu/clean)
 - Office: 2-606 South Building
 - Email: [zsv@inf.elte.hu](zsv@inf.elte.hu)
@@ -21,7 +21,7 @@ Practice Instructor: Evan Sitt
 - Email: [Sitt.Evan@gmail.com](sitt.evan@gmail.com)
 - Facebook: [https://www.facebook.com/Evan.Sitt](https://www.facebook.com/evan.sitt)
 - Youtube: [https://www.youtube.com/c/ParadoxChains](https://www.youtube.com/c/ParadoxChains)
-- WhatsApp: +36 70 292 0784
+- WhatsApp: `+36 70 292 0784`
 - Office: **TBA**
 - Office hours:
   - **TBA**
@@ -35,6 +35,9 @@ Tutors:\
 
 Grading system:\
 [https://github.com/ParadoxChains/BScFunctionalProgramming-2020-Spring/blob/master/Grading_System.md](https://github.com/ParadoxChains/BScFunctionalProgramming-2020-Spring/blob/master/Grading_System.md)
+
+A Nice Excel Spreadsheet for Calculating Your Grade:\
+[https://github.com/ParadoxChains/BScFunctionalProgramming-2020-Spring/blob/master/Functional%20Programming%20Grade%20Calculating%20Spreadsheet%20-%202019%20Fall.xlsx](https://github.com/ParadoxChains/BScFunctionalProgramming-2020-Spring/blob/master/Functional%20Programming%20Grade%20Calculating%20Spreadsheet%20-%202019%20Fall.xlsx)
 
 Important Dates:\
 [https://github.com/ParadoxChains/BScFunctionalProgramming-2020-Spring/blob/master/Important_Dates.md](https://github.com/ParadoxChains/BScFunctionalProgramming-2020-Spring/blob/master/Important_Dates.md)
@@ -59,6 +62,9 @@ Why Functional?\
 
 Download and Install the latest release of Clean:\
 [https://clean.cs.ru.nl/Download_Clean](https://clean.cs.ru.nl/Download_Clean)
+
+Getting Started with Clean:\
+[https://github.com/ParadoxChains/BScFunctionalProgramming-2020-Spring/blob/master/Start_Guide.md](https://github.com/ParadoxChains/BScFunctionalProgramming-2020-Spring/blob/master/Start_Guide.md)
 
 Clean Specific Books:
  - [A Functional Programmer's
