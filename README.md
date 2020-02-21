@@ -31,13 +31,13 @@ Consultation Hours:\
 **TBA**
 
 Tutors:\
-[https://github.com/ParadoxChains/BScFunctionalProgramming-2019-Fall/blob/master/Tutor_Contacts.md](https://github.com/ParadoxChains/BScFunctionalProgramming-2019-Fall/blob/master/Tutor_Contacts.md)
+[https://github.com/ParadoxChains/BScFunctionalProgramming-2020-Spring/blob/master/Tutor_Contacts.md](https://github.com/ParadoxChains/BScFunctionalProgramming-2020-Spring/blob/master/Tutor_Contacts.md)
 
 Grading system:\
-[https://github.com/ParadoxChains/BScFunctionalProgramming-2019-Fall/blob/master/Grading_System.md](https://github.com/ParadoxChains/BScFunctionalProgramming-2019-Fall/blob/master/Grading_System.md)
+[https://github.com/ParadoxChains/BScFunctionalProgramming-2020-Spring/blob/master/Grading_System.md](https://github.com/ParadoxChains/BScFunctionalProgramming-2020-Spring/blob/master/Grading_System.md)
 
 Important Dates:\
-[https://github.com/ParadoxChains/BScFunctionalProgramming-2019-Fall/blob/master/Important_Dates.md](https://github.com/ParadoxChains/BScFunctionalProgramming-2019-Fall/blob/master/Important_Dates.md)
+[https://github.com/ParadoxChains/BScFunctionalProgramming-2020-Spring/blob/master/Important_Dates.md](https://github.com/ParadoxChains/BScFunctionalProgramming-2020-Spring/blob/master/Important_Dates.md)
 
 ## Homework and Classwork Policy
 Late homework and classwork will not be accepted.\
@@ -55,7 +55,7 @@ BEAD Homework/Examination System:\
 ## Clean Resources
 
 Why Functional?\
-[Please read.](https://github.com/ParadoxChains/BScFunctionalProgramming-2019-Fall/blob/master/Why_Functional.md)
+[Please read.](https://github.com/ParadoxChains/BScFunctionalProgramming-2020-Spring/blob/master/Why_Functional.md)
 
 Download and Install the latest release of Clean:\
 [https://clean.cs.ru.nl/Download_Clean](https://clean.cs.ru.nl/Download_Clean)
@@ -72,7 +72,7 @@ Extensive Documentation of Clean's Built-in Functions:\
 [https://cloogle.org/](https://cloogle.org/)
 
 My Own Personal Coursework from when I learned Clean:\
-[https://github.com/ParadoxChains/BScFunctionalProgramming-2019-Fall/tree/master/Old_Homework](https://github.com/ParadoxChains/BScFunctionalProgramming-2019-Fall/tree/master/Old_Homework)\
+[https://github.com/ParadoxChains/BScFunctionalProgramming-2020-Spring/tree/master/Old_Homework](https://github.com/ParadoxChains/BScFunctionalProgramming-2020-Spring/tree/master/Old_Homework)\
 *(these are **by no means** the best or even correct solutions, but they are there for you to see)*
 
 ---
