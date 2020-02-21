@@ -26,6 +26,21 @@ Practice Instructor: Evan Sitt
 - Office hours:
   - **TBA**
   - **Please email me in advance for consultations.**
+  
+ Practice Instructor: Hossameldin Abdin
+ 
+  <img src="https://avatars2.githubusercontent.com/u/45470545?s=460&v=4" alt="drawing" width="250"/>
+  
+- Email: [hossamabdeen17@gmail.com](hossamabdeen17@gmail.com)
+- Facebook: [https://www.facebook.com/hossamabdeen17/](https://www.facebook.com/hossamabdeen17/)
+- Youtube: [https://www.youtube.com/c/ParadoxChains](https://www.youtube.com/c/ParadoxChains)
+- WhatsApp: `+36 20 481 4169`
+- Office: **TBA**
+- Office hours:
+  - **TBA**
+  - **Please email me in advance for consultations.**
+ 
+
 
 Consultation Hours:\
 **TBA**
