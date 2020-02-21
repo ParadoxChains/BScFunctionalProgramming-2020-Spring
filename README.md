@@ -83,9 +83,9 @@ Getting Started with Clean:\
 
 Clean Specific Books:
  - [A Functional Programmer's
-   Workout](https://github.com/ParadoxChains/BScFunctionalProgramming-2019-Fall/blob/master/Resources/A%20Functional%20Programmers%20Workout.pdf)
+   Workout](https://github.com/ParadoxChains/BScFunctionalProgramming-2020-Spring/blob/master/Resources/A%20Functional%20Programmers%20Workout.pdf)
   - [Functional Programming in
-   Clean](https://github.com/ParadoxChains/BScFunctionalProgramming-2019-Fall/blob/master/Resources/CleanBookI.pdf)
+   Clean](https://github.com/ParadoxChains/BScFunctionalProgramming-2020-Spring/blob/master/Resources/CleanBookI.pdf)
   - [Functional Programming and Graph
    Rewriting](https://clean.cs.ru.nl/Functional_Programming_and_Parallel_Graph_Rewriting)
 
