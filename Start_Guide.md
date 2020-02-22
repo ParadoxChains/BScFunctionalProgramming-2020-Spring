@@ -27,7 +27,7 @@ Start = "Hello World!"
 - Unzip it inside the "Documents" folder.
   - In Linux, use the command:
 ```
-tar -xzvf ~/Documents/clean3.0_32.tar.gz -d ~/Documents/clean
+tar -xzvf ~/Documents/clean3.0_32.tar.gz
 ```
 - Open the terminal and execute following commands:
 ```
