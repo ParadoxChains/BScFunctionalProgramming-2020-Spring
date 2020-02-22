@@ -2,6 +2,9 @@
 ---
 
 ## Latest Announcement
+1. **Consultation hours have been finalized! Every Tuesday from 1400-1600 and Thursdays from 1500-1700, we will be available in the Lovarda computer lab. Come in to get help with anything!**
+2. [There is now a nice little feedback form for everyone to send us feedback.](https://docs.google.com/forms/d/e/1FAIpQLSd11Sz4U_ZKfXoQQSbxCBScjRfNCvdfbXb5wXMC65ThL-LKXQ/viewform) Love how we're teaching? Leave us a nice message. Hate us? Feel free to scream and shout! :D Everything is anonymous so go have fun!
+3. Homework 1 is up already, please don't forget to do this. Please let us know if you have any questions or need help!
 
 ---
 ## General Info
@@ -43,7 +46,8 @@ Practice Instructor: Evan Sitt
 
 
 Consultation Hours:\
-**TBA**
+**Tuesdays [14:00pm - 16:00pm] Lovarda S0.308**\
+**Thursdays [15:00pm - 17:00pm] Lovarda S0.308**
 
 Tutors:\
 [https://github.com/ParadoxChains/BScFunctionalProgramming-2020-Spring/blob/master/Tutor_Contacts.md](https://github.com/ParadoxChains/BScFunctionalProgramming-2020-Spring/blob/master/Tutor_Contacts.md)
@@ -56,6 +60,9 @@ A Nice Excel Spreadsheet for Calculating Your Grade:\
 
 Important Dates:\
 [https://github.com/ParadoxChains/BScFunctionalProgramming-2020-Spring/blob/master/Important_Dates.md](https://github.com/ParadoxChains/BScFunctionalProgramming-2020-Spring/blob/master/Important_Dates.md)
+
+Give Us Feedback:\
+[All feedback, both negative and positive are welcome! Submissions are anonymous.](https://docs.google.com/forms/d/e/1FAIpQLSd11Sz4U_ZKfXoQQSbxCBScjRfNCvdfbXb5wXMC65ThL-LKXQ/viewform)
 
 ## Homework and Classwork Policy
 Late homework and classwork will not be accepted.\
