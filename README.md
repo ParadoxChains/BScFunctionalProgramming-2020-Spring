@@ -4,9 +4,7 @@
 ## Latest Announcement
 1. Everyone should log onto Microsoft Teams. Just go to https://products.office.com/en-us/microsoft-teams/group-chat-software to sign in with your Inf account [NETPUN@inf.elte.hu] 
 You don't need to download the software, it will work from browser.
-Classes will get moved to that website alongside the http://stream.inf.elte.hu server. Just wait for official announcements from your instructors about how to "attend" classes. That said, all classes will likely still take attendance, meaning that you need to be logged into the respective system at the time of class to be counted. Additionally some classes may use Catalog to keep track of attendance. 
-In order to miss practice, you need to do it officially with a self-quarantine notice to the coordinator.
-Guys, stay safe. And don't forget to keep up with studies because they're not letting us off the hook easily :c
+Please check if you are able to access the Functional Programming team that I have added you to. If not, please send an email to me along with your name and Neptun code so I can try to resolve this.
 2. There is now a WhatsApp group for people to ask questions and help each other out: https://chat.whatsapp.com/HG9jvKQRCNMKAWEuhOQHJK
 
 ---
