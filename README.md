@@ -2,9 +2,10 @@
 ---
 
 ## Latest Announcement
-1. **Consultation hours have been finalized! Every Tuesday from 1400-1600 and Thursdays from 1500-1700, we will be available in the Lovarda computer lab. Come in to get help with anything!**
-2. [There is now a nice little feedback form for everyone to send us feedback.](https://docs.google.com/forms/d/e/1FAIpQLSd11Sz4U_ZKfXoQQSbxCBScjRfNCvdfbXb5wXMC65ThL-LKXQ/viewform) Love how we're teaching? Leave us a nice message. Hate us? Feel free to scream and shout! :D Everything is anonymous so go have fun!
-3. Homework 1 is up already, please don't forget to do this. Please let us know if you have any questions or need help!
+1. Everyone should log onto Microsoft Teams. Just go to https://products.office.com/en-us/microsoft-teams/group-chat-software to sign in with your Inf account [NETPUN@inf.elte.hu] 
+You don't need to download the software, it will work from browser.
+Please check if you are able to access the Functional Programming team that I have added you to. If not, please send an email to me along with your name and Neptun code so I can try to resolve this.
+2. There is now a WhatsApp group for people to ask questions and help each other out: https://chat.whatsapp.com/HG9jvKQRCNMKAWEuhOQHJK
 
 ---
 ## General Info
