@@ -2,10 +2,22 @@
 ---
 
 ## Latest Announcement
-1. Everyone should log onto Microsoft Teams. Just go to https://products.office.com/en-us/microsoft-teams/group-chat-software to sign in with your Inf account [NETPUN@inf.elte.hu] 
-You don't need to download the software, it will work from browser.
-Please check if you are able to access the Functional Programming team that I have added you to. If not, please send an email to me along with your name and Neptun code so I can try to resolve this.
-2. There is now a WhatsApp group for people to ask questions and help each other out: https://chat.whatsapp.com/HG9jvKQRCNMKAWEuhOQHJK
+
+### The Midterm for FP will be conducted online. The time and date of the Midterm are still unchanged: April 17th from 4 pm to 7 pm. 
+### That said, there are some important technical prerequisites for this online Midterm:
+
+- **You must have a working @inf.elte.hu account on Microsoft Teams with access to the Clean lecture Team.**
+- **You must have access to both Canvas and BEAD, and access to your correct group.**
+- **You must have a working laptop or PC with a working Clean IDE or development environment of your choice.**
+- **You must have a microphone that is on at all times.**
+- **You must have a stable internet connection.**
+- **You should have some sort of watch or timekeeping device, this can help you keep track of the time better.**
+
+### Please check if you meet these requirements well before the Midterm. In the case that you can not meet one of these requirements, please email Viktoria and the Coordinator to officially declare the technical difficulties. There is no other way to be excused from the exam, anything else will be counted as an absence. In the case that you receive an official excuse from the Midterm, we will arrange a separate assessment depending on the number of students and the situation.
+
+### Please email or message Hossam or me if you have any questions.
+
+### The Midterm will focus on Higher-Order Functions, Lists, Recursion, and Guards. Sample Midterms are available on my website, and there are videos on the topics to be found on my Youtube as well.
 
 ---
 ## General Info
