@@ -197,3 +197,80 @@ finalFunc n = takeWhile (\x = x < n) fibList
 //Start = finalFunc 4 //[1,2,3,8]
 //Start = finalFunc 1000 //[1,2,3,8,21,144,377]
 
+/*
+Bubble sort
+[3,5,2,8,4,6,3]
+[3,2,5,8,4,6,3]
+[3,2,5,4,8,6,3]
+[3,2,5,4,6,8,3]
+[3,2,5,4,6,3,8]
+[2,3,5,4,6,3,8]
+[2,3,4,5,6,3,8]
+[2,3,4,5,3,6,8]
+[2,3,4,3,5,6,8]
+[2,3,3,4,5,6,8]
+Best case is O(n)
+Worst case is O(n^2)
+*/
+
+qsort :: [a] ! [a] | Ord a
+qsort [ ] = [ ]
+qsort [c] = [c]
+qsort [ c : xs ] = qsort [ x \\ x <- xs | x < c ] ++ [ c ] ++ qsort [ x \\ x <- xs | x >= c ]
+/*
+Quick sort
+[3,5,2,8,4,6,3]
+[2][3][5,8,4,6,3]
+[2][3][4,3][5][8,6]
+[2][3][3][4][][5][6][8][]
+[2][3][3][4][][5][6][8][]
+[2,3,3,4,5,6,8]
+This is a divide-and-conquer that sorts as it divides.
+*/
+//Start = qsort [2 ,1 ,5 ,3 ,6 ,9 ,0 ,1] // [0,1,1,2,3,5,6,9]
+
+merge :: [a] [a] ! [a] | Ord a
+merge [ ] ys = ys
+merge xs [ ] = xs
+merge [ x : xs ] [ y : ys ]
+| x <= y = [ x : merge xs [ y : ys ] ]
+| otherwise = [ y : merge [ x : xs ] ys ]
+
+/*
+merge :: [a] [a] ! [a] | Ord a
+merge [ ] ys = ys
+merge xs [ ] = xs
+merge p=:[ x : xs ] q=:[ y : ys ]
+| x  y = [ x : merge xs q]
+| otherwise = [ y : merge p ys ]
+*/
+
+msort :: [a] ! [a] | Ord a
+msort xs
+| len  1 = xs
+| otherwise = merge (msort ys ) (msort zs )
+where
+ys = take half xs
+zs = drop half xs
+half = len / 2
+len = length xs
+
+/*
+Merge sort
+[3,5,2,8,4,6,3]
+[3,5,2][8,4,6,3]
+[3][5,2][8,4][6,3]
+[3][5][2][8][4][6][3]
+[3][2,5][4,8][3,6]
+    [2:merge[3][5]][3,merge[4,8][6]]
+    [2:[3,5]][3,[4:merge[6][8]]]
+    [2:[3,5]][3,[4:[6,8]]]
+[2,3,5][3,4,6,8]
+[2,3,3,4,5,6,8]
+Merge is a divide-and-conquer where the sorting happens on the conquer.
+O(log(n))
+*/
+
+//Start = msort [2 ,9 ,5 ,1 ,3 ,8] // [1,2,3,5,8,9]
+
+//insert and radiix sort
