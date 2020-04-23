@@ -1,0 +1,182 @@
+.comp 920 0101110100100
+.start __records_Start
+.depend "_SystemEnumStrict"
+.depend "_SystemStrictLists"
+.depend "StdStrictLists"
+.depend "_SystemEnum"
+.depend "StdEnum"
+.depend "StdMisc"
+.depend "StdFunctions"
+.depend "StdCharList"
+.depend "StdTuple"
+.depend "StdOrdList"
+.depend "StdList"
+.depend "StdClass"
+.depend "StdFile"
+.depend "StdString"
+.depend "_SystemArray"
+.depend "StdArray"
+.depend "StdChar"
+.depend "StdReal"
+.depend "StdInt"
+.depend "StdOverloaded"
+.depend "StdBool"
+.depend "StdEnv"
+.endinfo
+.module m_records "records"
+.impmod _system
+.implab _cycle_in_spine
+.implab _type_error
+.implab _hnf
+.impdesc e_system_dind
+.implab e_system_nind e_system_eaind
+.impdesc e_system_dif
+.implab e_system_nif e_system_eaif
+.implab e_system_sif
+.impdesc e_system_dAP
+.implab e_system_nAP e_system_eaAP
+.implab e_system_sAP
+.impdesc ARRAY
+.impdesc _Nil
+.impdesc _Cons
+.impdesc _Conss
+.implab n_Conss ea_Conss
+.impdesc _Consts
+.implab n_Consts ea_Consts
+.impdesc _Conssts
+.implab n_Conssts ea_Conssts
+.impdesc _Tuple
+.impdesc d_S.1
+.implab n_S.1 ea_S.1
+.impdesc d_S.2
+.implab n_S.2 ea_S.2
+.impdesc d_S.3
+.implab n_S.3 ea_S.3
+.impdesc d_S.4
+.implab n_S.4 ea_S.4
+.impdesc d_S.5
+.implab n_S.5 ea_S.5
+.impdesc d_S.6
+.implab n_S.6 ea_S.6
+.implab _driver
+.impmod StdReal
+.implab e_StdReal_s+;1
+.implab e_StdReal_s-;2
+.implab e_StdReal_s^;7
+.implab e_StdReal_s==;11
+.implab e_StdReal_ssqrt;22
+.record r6 aa 2 0 "Point"
+.export __records_Start
+.o 0 0
+__records_Start
+	build _ 0 n3
+.d 1 0
+	jmp _driver
+.n 0 _
+.o 1 0
+n3
+	push_node _cycle_in_spine 0
+.d 0 0
+	jsr ea3
+.o 0 1 b
+	fillB_b 0 0
+	pop_b 1
+.d 1 0
+	rtn
+.o 0 0
+ea3
+.o 0 0
+s3
+	buildR 0.0
+	buildR 0.0
+	buildR 0.0
+	buildR 4.0
+	buildR 3.0
+	buildR 0.0
+.d 6 0
+	jmp s2
+.o 6 0
+s2
+	push_a 5
+	push_a 5
+	push_a 3
+	push_a 3
+.d 4 0
+	jsr s1
+.o 0 1 r
+	push_a 3
+	push_a 3
+	push_a 3
+	push_a 3
+.d 4 0
+	jsr s1
+.o 0 1 r
+	eqR
+	jmp_false else.1
+	push_a 5
+	push_a 5
+	push_a 5
+	push_a 5
+	buildh _Nil 0
+	update_a 0 9
+	update_a 0 10
+	pop_a 1
+.d 4 0
+	jsr s1
+.o 0 1 r
+	push_a 3
+	push_a 3
+	push_a 3
+	push_a 3
+	update_a 3 9
+	update_a 2 8
+	update_a 1 7
+	updatepop_a 0 6
+.d 4 0
+	jsr s1
+.o 0 1 r
+	eqR
+.d 0 1 b
+	rtn
+else.1
+	pop_a 6
+	pushB FALSE
+.d 0 1 b
+	rtn
+.o 4 0
+s1
+	push_a 3
+	jsr_eval 0
+	pushR_a 4
+	pop_a 1
+	push_a 1
+	jsr_eval 0
+	pushR_a 2
+	pop_a 1
+	subR
+	pushR 2.0
+	push_b 1
+	update_b 1 2
+	update_b 0 1
+	pop_b 1
+	powR
+	push_a 2
+	jsr_eval 0
+	pushR_a 3
+	pop_a 1
+	push_a 0
+	jsr_eval 0
+	pushR_a 1
+	pop_a 1
+	subR
+	pushR 2.0
+	push_b 1
+	update_b 1 2
+	update_b 0 1
+	pop_b 1
+	powR
+	addR
+	pop_a 4
+	sqrtR
+.d 0 1 r
+	rtn
