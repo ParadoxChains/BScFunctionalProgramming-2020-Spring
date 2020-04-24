@@ -106,3 +106,4 @@ makePerson (n,y,m,d)
 
 //[ {field1 = a+b, field2 = a-b} \\ {field1 = a, field2 = b}<-listOfRecords ]
 //map (\p = {p & field1 = newvalue } ) listofRecords
+
