@@ -103,3 +103,6 @@ makePerson (n,y,m,d)
 //Start = makeDate (2000, Blahblah, 1)
 //Start = makePerson ("Evan",2000,Apr,1) //(Person "Evan" [] (Date 2000 Apr 1) True)
 //Start = makePerson ("Evan",2000,Apr,-1)
+
+//[ {field1 = a+b, field2 = a-b} \\ {field1 = a, field2 = b}<-listOfRecords ]
+//map (\p = {p & field1 = newvalue } ) listofRecords
