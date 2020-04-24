@@ -81,7 +81,10 @@ updateSingleStatus :: Person -> Person
 //updateSingleStatus p = {isSingle = not p.isSingle, name = p.name, favoriteColors = p.favoriteColors, birthday = p.birthday}
 //updateSingleStatus p = {p & isSingle = not p.isSingle }
 updateSingleStatus p=:{isSingle = s} = {p& isSingle = not s}
-
+//Evan = {birthday = evanBDay, favoriteColors = ["Red","Blue","Green"], name = "Evan", isSingle = True}
+//p = {birthday = evanBDay, favoriteColors = ["Red","Blue","Green"], name = "Evan", isSingle = True}
+//s = True
+//{p& isSingle = not s} = {birthday = evanBDay, favoriteColors = ["Red","Blue","Green"], name = "Evan", isSingle = False}
 //Start = updateSingleStatus Evan //(Person "Evan" ["Red","Blue","Green"] (Date 2000 "April" 1) False)
 
 updateColors :: Person -> Person
@@ -118,6 +121,10 @@ where
 instance < Person 
 where
     (<) {birthday={year=y1}} {birthday={year=y2}} = y1 < y2
+// if you define an instance for '<', the 'Ord' class will automatically define and create for you
+//the >, >=, <= instances
+// if you define an instance for '==', the 'Eq' class will automatically define and create for you
+//the <> instance
 
 //Start = Evan < Jack
 
@@ -126,3 +133,17 @@ where
 listPeople = [Evan, Jack]
 //Start = isMember Evan listPeople
 //Start = sort listPeople
+
+defaultPersonRecord::Person
+defaultPersonRecord = {name="",favoriteColors=[],isSingle=True,birthday={year=0,day=0,month=Jan}}
+
+makeBabies :: Person Int -> [Person]
+makeBabies p=:{name=n} x = [ {p& name = n +++ (toString j) }\\ j<-[1..x]]
+
+//Start = makeBabies Evan 10
+//[(Person "Evan1" ["Red","Blue","Green"] (Date 2000 Apr 1) True),(Person "Evan2" ["Red","Blue","Green"] (Date 2000 Apr 1) True),(Person "Evan3" ["Red","Blue","Green"] (Date 2000 Apr 1) True),(Person "Evan4" ["Red","Blue","Green"] (Date 2000 Apr 1) True),(Person "Evan5" ["Red","Blue","Green"] (Date 2000 Apr 1) True),(Person "Evan6" ["Red","Blue","Green"] (Date 2000 Apr 1) True),(Person "Evan7" ["Red","Blue","Green"] (Date 2000 Apr 1) True),(Person "Evan8" ["Red","Blue","Green"] (Date 2000 Apr 1) True),(Person "Evan9" ["Red","Blue","Green"] (Date 2000 Apr 1) True),(Person "Evan10" ["Red","Blue","Green"] (Date 2000 Apr 1) True)]
+
+func :: (Int,Int,Int) -> ((Int,Int,Int),Int)
+func t=:(a,b,c) = (t,a+b+c)
+
+//Start = func (1,2,3) //((1,2,3),6)
